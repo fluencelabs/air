@@ -40,7 +40,7 @@ jobs:
           save-if: false
 
       - name: Setup sccache
-        uses: mozilla-actions/sccache-action@v0.0.4
+        uses: mozilla-actions/sccache-action@v0.0.7
 
       - name: Setup marine
         uses: fluencelabs/setup-marine@v1
