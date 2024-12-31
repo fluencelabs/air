@@ -15,5 +15,5 @@ path = "src/lib.rs"
 
 [dependencies]
 aquavm-air-parser = { version = "0.12.0", path = "../air-lib/air-parser" }
-itertools = "0.10.5"
+itertools = "0.14.0"
 thiserror = "1.0.50"
