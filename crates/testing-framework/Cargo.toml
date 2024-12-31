@@ -17,7 +17,7 @@ path = "src/lib.rs"
 air-test-utils = { version = "0.18.3", path = "../air-lib/test-utils" }
 aquavm-air-parser = { version = "0.12.0", path = "../air-lib/air-parser" }
 
-itertools = "0.10.5"
+itertools = "0.14.0"
 fluence-keypair = "0.10.4"
 strum = { version="0.24.1", features=["derive"] }
 nom = "7.1.3"

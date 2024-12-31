@@ -26,5 +26,5 @@ regex = "1.10.2"
 # TODO: hide serde behind a feature
 serde = { version = "1.0.190", features = ["rc", "derive"] }
 
-itertools = "0.10.5"
+itertools = "0.14.0"
 thiserror = "1.0.50"

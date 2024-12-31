@@ -16,6 +16,6 @@ path = "src/lib.rs"
 
 [dependencies]
 non-empty-vec = { version = "0.2.3", features = ["serde"] }
-itertools = "0.10.5"
+itertools = "0.14.0"
 
 serde = { version = "1.0.190", features = ["rc", "derive"] }
